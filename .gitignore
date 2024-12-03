@@ -1,0 +1,16 @@
+# Entorno virtual
+env/
+
+# Archivos de Python compilados
+*.pyc
+__pycache__/
+
+# Base de datos SQLite (si la usas)
+db.sqlite3
+
+# Archivos de configuración locales (opcional)
+*.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
